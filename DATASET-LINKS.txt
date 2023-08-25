@@ -1,0 +1,14 @@
+Since GitHub strictly limits file sizes, for this repository, we link to Hugginface where our data is uploaded:
+
+https://huggingface.co/datasets/janfrom/nlp_thesis
+
+Alternatively, there is also a Google Drive link available here:
+
+https://drive.google.com/drive/folders/1SRHFrZ8l2GLiZR2-wM6eesN6743V9hKA?usp=sharing
+
+
+For access to intermediate data-sets, access is available via this link:
+
+https://drive.google.com/drive/folders/1So3oYe3w7OXJSJvEcpXmrzgePaQsPxNm?usp=sharing
+
+
